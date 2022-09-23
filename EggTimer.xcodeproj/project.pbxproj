@@ -13,6 +13,7 @@
 		54CEE89928BF445300BF8E92 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54CEE89728BF445300BF8E92 /* Main.storyboard */; };
 		54CEE89B28BF445700BF8E92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54CEE89A28BF445700BF8E92 /* Assets.xcassets */; };
 		54CEE89E28BF445700BF8E92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54CEE89C28BF445700BF8E92 /* LaunchScreen.storyboard */; };
+		54E3EE8328BF4E4D000B6956 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 54E3EE8228BF4E4D000B6956 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		54CEE89A28BF445700BF8E92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		54CEE89D28BF445700BF8E92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		54CEE89F28BF445700BF8E92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54E3EE8228BF4E4D000B6956 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				54CEE89A28BF445700BF8E92 /* Assets.xcassets */,
 				54CEE89C28BF445700BF8E92 /* LaunchScreen.storyboard */,
 				54CEE89F28BF445700BF8E92 /* Info.plist */,
+				54E3EE8228BF4E4D000B6956 /* alarm_sound.mp3 */,
 			);
 			path = EggTimer;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				54CEE89E28BF445700BF8E92 /* LaunchScreen.storyboard in Resources */,
 				54CEE89B28BF445700BF8E92 /* Assets.xcassets in Resources */,
+				54E3EE8328BF4E4D000B6956 /* alarm_sound.mp3 in Resources */,
 				54CEE89928BF445300BF8E92 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
